@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Youtube Channel</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
+    <!--left navigation drawer-->
+    <string name="menu_home">Home</string>
+    <string name="menu_category">Category</string>
+    <string name="menu_latest">Latest</string>
+    <string name="menu_favourite">Favourite</string>
+    <string name="menu_communicate">Communicate</string>
+    <string name="menu_about">About Us</string>
+    <string name="menu_rate_app">Rate App</string>
+    <string name="menu_share_app">Share App</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_privacy">Privacy Policy</string>
+
+    <string name="no_item_found">No Item Found</string>
+    <string name="you_may">You may also like</string>
+
+    <string name="version">Version</string>
+    <string name="author">Author</string>
+    <string name="company">Company</string>
+    <string name="email">Email</string>
+    <string name="website">Website</string>
+    <string name="contact">Contact</string>
+    <string name="about">About</string>
+
+    <!-- connection message -->
+    <string name="conne_msg1">No Network Connection!!!</string>
+    <string name="conne_msg2">Please connect to working Internet connection</string>
+    <string name="nodata">No Data Found</string>
+
+    <string name="share_msg">Hi,I would like to share Application which is used to watch live tv free please download it from Google Play Store Free Here \n https://play.google.com/store/apps/details?id=</string>
+
+    <string name="favourite_add">Favourite has been saved</string>
+    <string name="favourite_remove">Favourite has been removed</string>
+
+    <string name="home_latest">Latest Channel</string>
+    <string name="featured">Featured Channel</string>
+    <string name="more">More</string>
+
+    <string name="text_no_item">No item available.</string>
+    <string name="tag_line">Play your favourite channel</string>
+
+    <!-- youtube api key -->
+    <string name="youtube_api_key">AIzaSyDyKZNn4ZcLoW3BelWZSvj_tI-WNBouiZU</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+
+    <string name="exit">Exit</string>
+    <string name="exit_msg">Are You Sure You Want To Quit?</string>
+
+
+    <!-- if you want to RTL then put it true other wise it false-->
+    <string name="isRTL">false</string>
+    <string name="privacy_url">http://apptific.com/PlayStore/Privacy-Policy.html</string>
+    <string name="default_notification_channel_id">YoutubeChannel</string>
+
+</resources>
